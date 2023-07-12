@@ -51,7 +51,7 @@ public class Homework {
         appleBox.moveTo(fruitBox);
         orangeBox2.moveTo(fruitBox);
 
-        System.out.println(orangeBox.getWeight()); // 0
+        System.out.println(orangeBox2.getWeight()); // 0
         System.out.println(appleBox.getWeight()); // 0
         System.out.println(fruitBox.getWeight()); // 17
 
